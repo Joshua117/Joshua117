@@ -7,3 +7,12 @@
 <sub>STACK</sub>
 
 `flutter` `dart` `supabase` `postgresql` `firebase` `typescript` `javascript` `node.js` `react` `docusaurus` `vercel` `android` `ios`
+
+### Proyectos
+
+| Proyecto | Descripción | Enlaces |
+| --- | --- | --- |
+| Mi Lotería Campechana | Aplicación de lotería campechana. | [Sitio web](https://www.miloteriacampechana.com/#/home) · [Google Play](https://play.google.com/store/apps/details?id=com.luxorapps.miloteriacampechana) |
+| Portal UMMA | Portal web de UMMA. | [Sitio web](https://www.portalumma.com.mx/) |
+| covidPrediccionPython | Proyecto en Python sobre predicción de COVID. | [GitHub](https://github.com/Joshua117/covidPrediccionPython) |
+| soporte_portal_umma | Portal web de soporte para usuarios. | [GitHub](https://github.com/Joshua117/soporte_portal_umma) |
