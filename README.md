@@ -4,19 +4,17 @@
 
 <br clear="right">
 
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="retrato-ascii.png" width="240" alt="Ilustración ASCII en blanco y negro de un perro con gafas frente a una laptop">
-    </td>
-    <td valign="middle">
-      <p><sub>STACK</sub></p>
-      <p><code>flutter</code> <code>dart</code> <code>supabase</code> <code>postgresql</code> <code>firebase</code> <code>typescript</code> <code>javascript</code> <code>node.js</code> <code>react</code> <code>docusaurus</code> <code>vercel</code> <code>android</code> <code>ios</code></p>
-      <p><sub>EDICIÓN DIGITAL</sub></p>
-      <p><code>Adobe Illustrator</code> <code>Adobe Photoshop</code></p>
-    </td>
-  </tr>
-</table>
+<img src="retrato-ascii.png" align="left" width="300" alt="Ilustración ASCII en blanco y negro de un perro con gafas frente a una laptop">
+
+<p>
+  <sub>STACK</sub><br><br>
+  <code>flutter</code> <code>dart</code> <code>supabase</code> <code>postgresql</code> <code>firebase</code> <code>typescript</code> <code>javascript</code> <code>node.js</code> <code>react</code> <code>docusaurus</code> <code>vercel</code> <code>android</code> <code>ios</code>
+  <br><br>
+  <sub>EDICIÓN DIGITAL</sub><br><br>
+  <code>Adobe Illustrator</code> <code>Adobe Photoshop</code>
+</p>
+
+<br clear="left">
 
 ### Proyectos
 
