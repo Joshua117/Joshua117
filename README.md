@@ -4,13 +4,13 @@
 
 <br clear="right">
 
-<img src="retrato-ascii.png" align="left" width="200" alt="Perro con gafas trabajando en una laptop">
+<img src="retrato-ascii.png" align="left" width="180" alt="Perro con gafas trabajando en una laptop">
 
 <p>
-  <sub>STACK</sub><br><br>
+  <sub>STACK</sub><br>
   <code>flutter</code> <code>dart</code> <code>supabase</code> <code>postgresql</code> <code>firebase</code> <code>typescript</code> <code>javascript</code> <code>node.js</code> <code>react</code> <code>docusaurus</code> <code>vercel</code> <code>android</code> <code>ios</code>
   <br><br>
-  <sub>EDICIÓN DIGITAL</sub><br><br>
+  <sub>EDICIÓN DIGITAL</sub><br>
   <code>Adobe Illustrator</code> <code>Adobe Photoshop</code>
 </p>
 
