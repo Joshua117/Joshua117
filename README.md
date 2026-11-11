@@ -8,10 +8,14 @@
 
 `flutter` `dart` `supabase` `postgresql` `firebase` `typescript` `javascript` `node.js` `react` `docusaurus` `vercel` `android` `ios`
 
+<sub>EDICIÓN DIGITAL</sub>
+
+`Adobe Illustrator` `Adobe Photoshop`
+
 ### Proyectos
 
 | Proyecto | Descripción | Enlaces |
 | --- | --- | --- |
 | Mi Lotería Campechana | Aplicación de lotería campechana. | [Sitio web](https://www.miloteriacampechana.com/#/home) · [Google Play](https://play.google.com/store/apps/details?id=com.luxorapps.miloteriacampechana) |
-| Portal UMMA (563 usuarios activos en los últimos 7 días) | Portal web de UMMA. | [Sitio web](https://www.portalumma.com.mx/) |
+| Portal UMMA (1000+ Usuarios) | Portal web de UMMA. | [Sitio web](https://www.portalumma.com.mx/) |
 | Reproductor Luxor | Reproductor web. | [Sitio web](https://luxor117.neocities.org/reproductor_luxor) |
