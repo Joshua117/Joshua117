@@ -19,4 +19,4 @@
 | Mi Lotería Campechana | Aplicación de lotería campechana. | [Sitio web](https://www.miloteriacampechana.com/#/home) · [Google Play](https://play.google.com/store/apps/details?id=com.luxorapps.miloteriacampechana) |
 | Portal UMMA (1000+ Usuarios) | Portal web de UMMA. | [Sitio web](https://www.portalumma.com.mx/) |
 | Reproductor Luxor | Reproductor web. | [Sitio web](https://luxor117.neocities.org/reproductor_luxor) |
-| El Rapidín — En desarrollo | Plataforma de entregas y servicios locales con apps para clientes, negocios y repartidores, y un panel web de administración. Desarrollada con Flutter. | Próximamente |
+| El Rapidín — En desarrollo | Plataforma de entregas y servicios locales con sistema de créditos. | Próximamente |
