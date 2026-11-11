@@ -4,7 +4,7 @@
 
 <br clear="right">
 
-<img src="retrato-ascii.png" align="left" width="300" alt="Ilustración ASCII en blanco y negro de un perro con gafas frente a una laptop">
+<img src="retrato-ascii.png" align="left" width="200" alt="Perro con gafas trabajando en una laptop">
 
 <p>
   <sub>STACK</sub><br><br>
