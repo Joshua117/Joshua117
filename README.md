@@ -1,6 +1,6 @@
 <img src="avatar.png" align="right" width="300" alt="Ilustración de un desarrollador programando en su laptop">
 
-Desarrollador de aplicaciones móviles y web. Me gusta llevar una idea de principio a fin: diseñar la experiencia, construir la app en **Flutter**, montar el backend en **Supabase** o **Firebase** y dejarla publicada en manos de usuarios reales. Trabajo bajo el nombre de **LuxorApps**, donde hago software pensado para resolver problemas cotidianos de negocios, escuelas y personas, cuidando que sea simple, rápido y agradable de usar.
+Desarrollador de aplicaciones móviles y web. Me gusta llevar una idea de principio a fin: diseñar la experiencia, construir la app, preparar todo lo que hay detrás y dejarla publicada en manos de usuarios reales. Trabajo bajo el nombre de **LuxorApps**, donde hago software pensado para resolver problemas cotidianos de negocios, escuelas y personas, cuidando que sea simple, rápido y agradable de usar.
 
 <br clear="right">
 
