@@ -1,6 +1,6 @@
 <img src="avatar.png" align="right" width="300" alt="Ilustración de un desarrollador programando en su laptop">
 
-Desarrollador de aplicaciones móviles y web en **Flutter**, con backend en **Supabase** y **Firebase**. Bajo el nombre de **LuxorApps** construyo productos completos, de la app al panel de administración: **El Rapidín**, una plataforma de delivery con apps para cliente, negocio y repartidor; **Portal UMMA**, el sistema de gestión académica y administrativa de la Universidad Mundo Maya, con su centro de soporte en Docusaurus; y **Lotería Campechana**, la versión digital del juego tradicional.
+Desarrollador de aplicaciones móviles y web. Me gusta llevar una idea de principio a fin: diseñar la experiencia, construir la app en **Flutter**, montar el backend en **Supabase** o **Firebase** y dejarla publicada en manos de usuarios reales. Trabajo bajo el nombre de **LuxorApps**, donde hago software pensado para resolver problemas cotidianos de negocios, escuelas y personas, cuidando que sea simple, rápido y agradable de usar.
 
 <br clear="right">
 
