@@ -18,9 +18,9 @@
 
 ### Proyectos
 
-| Proyecto | Descripción | Enlaces |
+| Proyecto | Descripción | Tecnologías |
 | --- | --- | --- |
-| Mi Lotería Campechana | Aplicación de lotería campechana. | [Sitio web](https://www.miloteriacampechana.com/#/home) · [Google Play](https://play.google.com/store/apps/details?id=com.luxorapps.miloteriacampechana) |
-| Portal UMMA (1000+ Usuarios) | Portal web de UMMA. | [Sitio web](https://www.portalumma.com.mx/) |
-| Reproductor Luxor | Reproductor web. | [Sitio web](https://luxor117.neocities.org/reproductor_luxor) |
-| El Rapidín — En desarrollo | Plataforma de entregas y servicios locales con sistema de créditos. | Próximamente |
+| <p align="center"><img src="loteria-campechana-logo.png" width="64" height="64" alt="Logo de Mi Lotería Campechana"><br><strong>Mi Lotería Campechana</strong><br><a href="https://www.miloteriacampechana.com/#/home">Sitio web</a> · <a href="https://play.google.com/store/apps/details?id=com.luxorapps.miloteriacampechana">Google Play</a></p> | Lotería digital con cantador automático con voz, cartillas personalizables y multijugador en tiempo real. Incluye creación e impresión de cartillas en PDF y un modo para eventos. | `Flutter` `Dart` `Supabase` `GoRouter` `Vercel`<br><br>Realtime Broadcast y Presence, acceso con Google OAuth, almacenamiento local y monetización con AdMob y AdSense. |
+| Portal UMMA (1000+ Usuarios)<br>[Sitio web](https://www.portalumma.com.mx/) | Portal web de UMMA. | — |
+| Reproductor Luxor<br>[Sitio web](https://luxor117.neocities.org/reproductor_luxor) | Reproductor web. | — |
+| El Rapidín — En desarrollo<br>Próximamente | Plataforma de entregas y servicios locales con sistema de créditos. | — |
