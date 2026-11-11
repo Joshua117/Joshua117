@@ -4,7 +4,7 @@
 
 <br clear="right">
 
-<img src="retrato-ascii.png" align="left" width="180" alt="Perro ejecutivo usando un teléfono Android con una app de estudio">
+<img src="perro-android.png" align="left" width="180" alt="Perro ejecutivo usando un teléfono Android con una app de estudio">
 
 <p>
   <sub>STACK</sub><br>
