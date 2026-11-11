@@ -4,6 +4,8 @@
 
 <br clear="right">
 
+<img src="retrato-ascii.png" align="left" width="180" alt="Ilustración ASCII en blanco y negro de un perro con gafas frente a una laptop">
+
 <sub>STACK</sub>
 
 `flutter` `dart` `supabase` `postgresql` `firebase` `typescript` `javascript` `node.js` `react` `docusaurus` `vercel` `android` `ios`
@@ -11,6 +13,8 @@
 <sub>EDICIÓN DIGITAL</sub>
 
 `Adobe Illustrator` `Adobe Photoshop`
+
+<br clear="left">
 
 ### Proyectos
 
