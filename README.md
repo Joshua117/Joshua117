@@ -14,10 +14,23 @@
 
 <p>
   <sub>STACK</sub><br>
-  <code>flutter</code> <code>dart</code> <code>supabase</code> <code>postgresql</code> <code>firebase</code> <code>typescript</code> <code>javascript</code> <code>node.js</code> <code>react</code> <code>docusaurus</code> <code>vercel</code> <code>android</code> <code>ios</code>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&amp;logo=flutter&amp;logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&amp;logo=dart&amp;logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&amp;logo=firebase&amp;logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat&amp;logo=react&amp;logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Docusaurus-2E8555?style=flat&amp;logo=docusaurus&amp;logoColor=white" alt="Docusaurus">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&amp;logo=vercel&amp;logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&amp;logo=android&amp;logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&amp;logo=ios&amp;logoColor=white" alt="iOS">
   <br><br>
   <sub>EDICIÓN DIGITAL</sub><br>
-  <code>Adobe Illustrator</code> <code>Adobe Photoshop</code>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&amp;logo=adobeillustrator&amp;logoColor=white" alt="Adobe Illustrator">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop">
 </p>
 
 <br clear="left">
