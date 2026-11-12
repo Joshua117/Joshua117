@@ -1,10 +1,10 @@
-<img src="avatar.webp" align="right" width="300" alt="Ilustración de un desarrollador programando en su laptop">
+<img src="avatar-izquierda.webp" align="left" width="300" alt="Ilustración de un desarrollador programando en su laptop">
 
 <p align="justify">Desarrollador de aplicaciones móviles y web. Me gusta llevar una idea de principio a fin, diseñar la experiencia, construir la app, preparar todo lo que hay detrás y dejarla publicada en manos de usuarios reales. Hago software pensado para resolver problemas cotidianos, cuidando que sea simple, rápido y agradable de usar.</p>
 
-<br clear="right">
+<br clear="left">
 
-<img src="perro-android.webp" align="left" width="180" alt="Perro ejecutivo usando un teléfono Android con una app de estudio">
+<img src="perro-android-derecha.webp" align="right" width="180" alt="Perro ejecutivo usando un teléfono Android con una app de estudio">
 
 <p>
   <sub>STACK</sub><br>
@@ -14,7 +14,7 @@
   <code>Adobe Illustrator</code> <code>Adobe Photoshop</code>
 </p>
 
-<br clear="left">
+<br clear="right">
 
 ### Trayectoria
 
