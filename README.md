@@ -4,7 +4,7 @@
 
 <br clear="left">
 
-<img src="perro-android-derecha.webp" align="right" width="180" alt="Perro ejecutivo usando un teléfono Android con una app de estudio">
+<img src="perro-estudio.webp" align="right" width="180" alt="Perro con gafas usando un teléfono con una app de estudio">
 
 <p>
   <sub>STACK</sub><br>
