@@ -1,6 +1,12 @@
 <img src="avatar-izquierda.webp" align="left" width="300" alt="Ilustración de un desarrollador programando en su laptop">
 
-<p align="justify">Desarrollador de aplicaciones móviles y web. Me gusta llevar una idea de principio a fin, diseñar la experiencia, construir la app, preparar todo lo que hay detrás y dejarla publicada en manos de usuarios reales. Hago software pensado para resolver problemas cotidianos, cuidando que sea simple, rápido y agradable de usar.</p>
+<h3>¡Hola, soy Joshua!</h3>
+
+<p>Desarrollo aplicaciones móviles y web, con especial interés en el <b>diseño de interfaces de usuario</b>. Me gusta trabajar tanto en cómo se ve una aplicación como en la lógica que la hace funcionar, desde las primeras pantallas hasta su publicación.</p>
+
+<p>Mi trabajo se centra en <b>Flutter y Dart</b> para construir interfaces adaptables y compartir código entre Android y web. Con <b>Supabase y PostgreSQL</b> implemento autenticación, permisos por rol, manejo de datos y funciones en tiempo real. También integro notificaciones con <b>Firebase Cloud Messaging</b> y almacenamiento local con <b>SQLite</b> para funciones que necesitan trabajar sin conexión.</p>
+
+<p>He aplicado estas herramientas en <b>Portal UMMA</b>, una plataforma de gestión universitaria con más de 1000 usuarios, y en <b>Mi Lotería Campechana</b>, con multijugador en tiempo real. También creo experiencias web con <b>HTML, CSS y JavaScript</b>, como Reproductor Luxor.</p>
 
 <br clear="left">
 
