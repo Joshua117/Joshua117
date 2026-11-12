@@ -10,7 +10,7 @@
 
 <br clear="right">
 
-<img src="perrito-blog.webp" align="left" width="200" alt="Perrito con gafas tras un portátil">
+<img src="perrito-stack-ascii.webp" align="left" width="200" alt="Perrito con gafas tras un portátil">
 
 <p>
   <sub>STACK</sub><br>
