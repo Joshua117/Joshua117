@@ -1,4 +1,4 @@
-<img src="avatar-izquierda.webp" align="left" width="300" alt="Ilustración de un desarrollador programando en su laptop">
+<img src="avatar-izquierda.webp" align="right" width="300" alt="Ilustración de un desarrollador programando en su laptop">
 
 <h3>¡Hola, soy Joshua!</h3>
 
@@ -8,9 +8,9 @@
 
 <p>He aplicado estas herramientas en <b>Portal UMMA</b>, una plataforma de gestión universitaria con más de 1000 usuarios, y en <b>Mi Lotería Campechana</b>, con multijugador en tiempo real. También creo experiencias web con <b>HTML, CSS y JavaScript</b>, como Reproductor Luxor.</p>
 
-<br clear="left">
+<br clear="right">
 
-<img src="perro-estudio.webp" align="right" width="180" alt="Perro con gafas usando un teléfono con una app de estudio">
+<img src="perro-estudio-reflejado.webp" align="left" width="380" alt="Perro con gafas usando un teléfono con una app de estudio">
 
 <p>
   <sub>STACK</sub><br>
@@ -20,7 +20,7 @@
   <code>Adobe Illustrator</code> <code>Adobe Photoshop</code>
 </p>
 
-<br clear="right">
+<br clear="left">
 
 ### Trayectoria
 
