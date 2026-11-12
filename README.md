@@ -1,12 +1,12 @@
 <img src="avatar.webp" align="right" width="300" alt="Ilustración de un desarrollador programando en su laptop">
 
-<h3 align="center">¡Hola, soy Joshua!</h3>
+<h3 align="left">¡Hola, soy Joshua!</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Joshua117&amp;label=Visitas%20al%20perfil&amp;color=8A2BE2&amp;style=flat" alt="Visitas al perfil">
 </p>
 
-<p align="center">Desarrollo aplicaciones móviles y web con <b>Flutter y Dart</b>. Me gusta especialmente el <b>diseño de interfaces de usuario</b>: cuidar cómo se ve y se usa una aplicación, y conectar esa experiencia con la lógica y los datos que la hacen funcionar.</p>
+<p align="left">Desarrollo aplicaciones móviles y web con <b>Flutter y Dart</b>. Me gusta especialmente el <b>diseño de interfaces de usuario</b>: cuidar cómo se ve y se usa una aplicación, y conectar esa experiencia con la lógica y los datos que la hacen funcionar.</p>
 
 <br clear="right">
 
