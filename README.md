@@ -1,16 +1,16 @@
-<img src="avatar-izquierda.webp" align="right" width="300" alt="Ilustración de un desarrollador programando en su laptop">
+<img src="avatar.webp" align="right" width="300" alt="Ilustración de un desarrollador programando en su laptop">
 
-<h3>¡Hola, soy Joshua!</h3>
+<h3 align="center">¡Hola, soy Joshua!</h3>
 
-<p>Desarrollo aplicaciones móviles y web, con especial interés en el <b>diseño de interfaces de usuario</b>. Me gusta trabajar tanto en cómo se ve una aplicación como en la lógica que la hace funcionar, desde las primeras pantallas hasta su publicación.</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Joshua117&amp;label=Visitas%20al%20perfil&amp;color=8A2BE2&amp;style=flat" alt="Visitas al perfil">
+</p>
 
-<p>Mi trabajo se centra en <b>Flutter y Dart</b> para construir interfaces adaptables y compartir código entre Android y web. Con <b>Supabase y PostgreSQL</b> implemento autenticación, permisos por rol, manejo de datos y funciones en tiempo real. También integro notificaciones con <b>Firebase Cloud Messaging</b> y almacenamiento local con <b>SQLite</b> para funciones que necesitan trabajar sin conexión.</p>
-
-<p>He aplicado estas herramientas en <b>Portal UMMA</b>, una plataforma de gestión universitaria con más de 1000 usuarios, y en <b>Mi Lotería Campechana</b>, con multijugador en tiempo real. También creo experiencias web con <b>HTML, CSS y JavaScript</b>, como Reproductor Luxor.</p>
+<p align="center">Desarrollo aplicaciones móviles y web con <b>Flutter y Dart</b>. Me gusta especialmente el <b>diseño de interfaces de usuario</b>: cuidar cómo se ve y se usa una aplicación, y conectar esa experiencia con la lógica y los datos que la hacen funcionar.</p>
 
 <br clear="right">
 
-<img src="perro-estudio-reflejado.webp" align="left" width="380" alt="Perro con gafas usando un teléfono con una app de estudio">
+<img src="perro-estudio-reflejado.webp" align="left" width="200" alt="Perro con gafas usando un teléfono con una app de estudio">
 
 <p>
   <sub>STACK</sub><br>
@@ -30,3 +30,8 @@
 | <p align="center"><img src="portal-umma-logo.webp" width="64" height="64" alt="Logo de Portal UMMA"><br><strong>Portal UMMA</strong><br>(1000+ Usuarios)<br><a href="https://www.portalumma.com.mx/">Sitio web</a></p> | Portal universitario para Android y web, con acceso para alumnos, docentes y personal.<br><br>Módulos: estudiantes, docentes, personal, control de asistencia, ciclos escolares, grados y áreas escolares, planes de estudio, materias, carga académica, salones, mobiliario, inventario, cobranza, eventos, talleres, transporte, seguridad y configuración. | `Flutter` `Dart` `Supabase` `SQLite` `Provider` `Riverpod` `GoRouter` `Firebase Cloud Messaging` `ML Kit` `TensorFlow Lite` `GPS` `Syncfusion` `Vercel` |
 | <p align="center"><img src="reproductor-luxor-logo.png" width="64" height="64" alt="Logo de Reproductor Luxor"><br><strong>Reproductor Luxor</strong><br><a href="https://luxor117.neocities.org/reproductor_luxor">Sitio web</a></p> | Reproductor de música inspirado en Windows 7 y Vista, con estética Frutiger Aero: transparencias, brillos y un CD animado con la portada de cada canción. Reproduce música de YouTube organizada por álbum y artista, con temas personalizables, estadísticas de escucha e importación y exportación de la biblioteca. | `HTML` `CSS` `JavaScript` `YouTube IFrame API` `LocalStorage` `IndexedDB` `Neocities` |
 | El Rapidín — En desarrollo<br>Próximamente | Plataforma de entregas y servicios locales con sistema de créditos. | — |
+
+<p align="center">
+  <img src="perrito-blog.webp" width="200" alt="Perrito con gafas tras un portátil"><br>
+  <a href="https://luxor117.neocities.org/">Visita mi blog</a>
+</p>
