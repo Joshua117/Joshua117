@@ -10,7 +10,7 @@
 
 <br clear="right">
 
-<img src="perro-estudio-reflejado.webp" align="left" width="200" alt="Perro con gafas usando un teléfono con una app de estudio">
+<img src="perrito-blog.webp" align="left" width="200" alt="Perrito con gafas tras un portátil">
 
 <p>
   <sub>STACK</sub><br>
@@ -32,6 +32,6 @@
 | El Rapidín — En desarrollo<br>Próximamente | Plataforma de entregas y servicios locales con sistema de créditos. | — |
 
 <p align="center">
-  <img src="perrito-blog.webp" width="200" alt="Perrito con gafas tras un portátil"><br>
+  <img src="perro-estudio-reflejado.webp" width="200" alt="Perro con gafas usando un teléfono con una app de estudio"><br>
   <a href="https://luxor117.neocities.org/">Visita mi blog</a>
 </p>
