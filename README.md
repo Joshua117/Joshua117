@@ -16,7 +16,7 @@
 
 <br clear="left">
 
-### Proyectos
+### Trayectoria
 
 | Proyecto | Descripción | Tecnologías |
 | --- | --- | --- |
