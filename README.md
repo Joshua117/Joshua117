@@ -28,10 +28,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&amp;logo=android&amp;logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&amp;logo=ios&amp;logoColor=white" alt="iOS">
   <br><br>
-  <sub>HERRAMIENTAS DE IA</sub><br>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&amp;logo=claude&amp;logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Desarrollo%20asistido%20por%20IA-6E56CF?style=flat" alt="Desarrollo asistido por IA">
-  <br><br>
   <sub>EDICIÓN DIGITAL</sub><br>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&amp;logo=adobeillustrator&amp;logoColor=white" alt="Adobe Illustrator">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop">
