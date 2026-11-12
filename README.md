@@ -1,4 +1,4 @@
-<img src="avatar.webp" align="right" width="300" alt="Ilustración de un desarrollador programando en su laptop">
+<img src="avatar.webp" align="right" width="360" alt="Ilustración de un desarrollador programando en su laptop">
 
 <h3 align="left">¡Hola, soy Joshua!</h3>
 
@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Joshua117&amp;label=Visitas%20al%20perfil&amp;color=8A2BE2&amp;style=flat" alt="Visitas al perfil">
 </p>
 
-<p align="left">Desarrollador de aplicaciones móviles multiplataforma y web, enfocado en <b>Flutter y Dart</b>. Trabajo con <b>Supabase y PostgreSQL</b> para autenticación, bases de datos y funcionalidades en tiempo real, e integro notificaciones con <b>Firebase</b>. También desarrollo interfaces web con <b>HTML, CSS y JavaScript</b>. Me apasiona el <b>diseño de interfaces de usuario</b>, combinando atención al detalle visual con lógica y estructura de código.</p>
+<p align="justify">Desarrollador de aplicaciones móviles multiplataforma y web, enfocado en <b>Flutter y Dart</b>. Trabajo con <b>Supabase y PostgreSQL</b> para autenticación, bases de datos y funcionalidades en tiempo real, e integro notificaciones con <b>Firebase</b>. También desarrollo interfaces web con <b>HTML, CSS y JavaScript</b>. Me apasiona el <b>diseño de interfaces de usuario</b>, combinando atención al detalle visual con lógica y estructura de código.</p>
 
 <br clear="right">
 
