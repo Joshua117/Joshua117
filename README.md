@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Docusaurus-2E8555?style=flat&amp;logo=docusaurus&amp;logoColor=white" alt="Docusaurus">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&amp;logo=vercel&amp;logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&amp;logo=android&amp;logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat&amp;logo=ios&amp;logoColor=white" alt="iOS">
   <br><br>
   <sub>DIGITAL DESIGN</sub><br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&amp;logo=figma&amp;logoColor=white" alt="Figma">
