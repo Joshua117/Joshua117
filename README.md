@@ -1,10 +1,13 @@
-<img src="avatar.webp" align="right" width="360" alt="Illustration of a developer coding on a laptop">
+<table align="right">
+  <tr>
+    <td align="center" width="360">
+      <img src="avatar.webp" width="360" alt="Illustration of a developer coding on a laptop"><br>
+      <img src="https://komarev.com/ghpvc/?username=Joshua117&amp;label=Profile%20Views&amp;color=8A2BE2&amp;style=flat" alt="Profile views">
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Hello, I'm Joshua.</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Joshua117&amp;label=Profile%20Views&amp;color=8A2BE2&amp;style=flat" alt="Profile views">
-</p>
 
 <p align="justify">Cross-platform mobile and web developer focused on <b>Flutter and Dart</b>. I use <b>Supabase and PostgreSQL</b> for authentication, databases, and real-time features, and integrate notifications with <b>Firebase</b>. I also build web interfaces with <b>HTML, CSS, and JavaScript</b>. I’m passionate about <b>user interface design</b>, bringing together visual detail, application logic, and well-structured code.</p>
 
