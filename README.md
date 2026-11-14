@@ -48,7 +48,16 @@
 | <p align="center"><img src="reproductor-luxor-logo.png" width="64" height="64" alt="Reproductor Luxor logo"><br><strong>Reproductor Luxor</strong><br><a href="https://luxor117.neocities.org/reproductor_luxor">Website</a></p> | A Windows 7 and Vista-inspired music player with a Frutiger Aero aesthetic: transparency, glossy effects, and an animated CD displaying each track’s artwork. Plays YouTube music organized by album and artist, with customizable themes, listening statistics, and library import and export. | `HTML` `CSS` `JavaScript` `YouTube IFrame API` `LocalStorage` `IndexedDB` `Neocities` |
 | El Rapidín — In development<br>Coming soon | Delivery and local services platform with a credit-based system. | — |
 
-<p align="center">
-  <img src="perro-estudio-reflejado.webp" width="200" alt="Dog with glasses using a study app on a phone"><br>
-  <a href="https://luxor117.neocities.org/">Visit my blog</a>
+<img src="perro-estudio-reflejado.webp" align="right" width="200" alt="Dog with glasses using a study app on a phone">
+
+<p align="right">
+  <br><br><br>
+  <a href="mailto:joshua_barbosa@tutanota.com">joshua_barbosa@tutanota.com</a><br>
+  League of Legends: <strong>Luxor117</strong>#LAN
+</p>
+
+<br clear="right">
+
+<p align="right">
+  <a href="https://luxor117.neocities.org/">Visit my blog</a><img src="profile-spacer.svg" width="58" height="1" alt="">
 </p>
