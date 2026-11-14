@@ -12,7 +12,7 @@
 
 <img src="perrito-stack-ascii.webp" align="left" width="200" alt="Dog with glasses behind a laptop">
 
-<p align="center">
+<p align="left">
   <br>
   <sub>STACK</sub><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&amp;logo=flutter&amp;logoColor=white" alt="Flutter">
