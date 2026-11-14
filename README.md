@@ -53,11 +53,9 @@
 <p align="left">
   <br><br>
   <a href="mailto:joshua_barbosa@tutanota.com">joshua_barbosa@tutanota.com</a><br>
-  League of Legends: <strong>Luxor117</strong>#LAN
+  <a href="https://luxor117.neocities.org/">Visit my blog</a><br>
+  LOL: <strong>Luxor117</strong>#LAN
 </p>
 
 <br clear="left">
 
-<p align="left">
-  <img src="profile-spacer.svg" width="58" height="1" alt=""><a href="https://luxor117.neocities.org/">Visit my blog</a>
-</p>
