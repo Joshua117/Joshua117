@@ -1,6 +1,6 @@
 <img src="avatar.webp" align="right" width="360" alt="Illustration of a developer coding on a laptop">
 
-<h3 align="left">Hi, I’m Joshua!</h3>
+<h3 align="left">Me llamo Joshua.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Joshua117&amp;label=Profile%20Views&amp;color=8A2BE2&amp;style=flat" alt="Profile views">
