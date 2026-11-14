@@ -7,7 +7,7 @@
 <br clear="right">
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Joshua117&amp;label=Profile%20Views&amp;color=8A2BE2&amp;style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Joshua117&amp;label=Profile%20Views&amp;color=8A2BE2&amp;style=flat" width="110" height="20" alt="Profile views"><img src="profile-spacer.svg" width="125" height="1" alt="">
 </p>
 
 <img src="perrito-stack-ascii.webp" align="left" width="200" alt="Dog with glasses behind a laptop">
