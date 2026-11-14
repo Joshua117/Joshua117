@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&amp;logo=figma&amp;logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&amp;logo=adobeillustrator&amp;logoColor=white" alt="Adobe Illustrator">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/VectorCraft-7C3AED?style=flat" alt="VectorCraft">
+  <img src="https://img.shields.io/badge/PhotoCraft-2563EB?style=flat" alt="PhotoCraft">
+  <img src="https://img.shields.io/badge/FigCraft-E76F51?style=flat" alt="FigCraft">
 </p>
 
 <br clear="left">
