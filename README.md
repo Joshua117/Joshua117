@@ -48,6 +48,16 @@
 | <p align="center"><img src="reproductor-luxor-logo.png" width="64" height="64" alt="Reproductor Luxor logo"><br><strong>Reproductor Luxor</strong><br><a href="https://luxor117.neocities.org/reproductor_luxor">Website</a></p> | A Windows 7 and Vista-inspired music player with a Frutiger Aero aesthetic: transparency, glossy effects, and an animated CD displaying each track’s artwork. Plays YouTube music organized by album and artist, with customizable themes, listening statistics, and library import and export. | `HTML` `CSS` `JavaScript` `YouTube IFrame API` `LocalStorage` `IndexedDB` `Neocities` |
 | El Rapidín — In development<br>Coming soon | Delivery and local services platform with a credit-based system. | — |
 
+### Contributions
+
+<p align="center">
+  <a href="https://github.com/Joshua117#year-list-container">
+    <img src="https://ghchart.rshah.org/Joshua117" width="100%" alt="Joshua117's GitHub contribution calendar">
+  </a>
+</p>
+
+<br>
+
 <img src="perro-estudio.webp" align="left" width="200" alt="Dog with glasses using a study app on a phone">
 
 <p align="left">
