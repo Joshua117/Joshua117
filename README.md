@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&amp;logo=ios&amp;logoColor=white" alt="iOS">
   <br><br>
   <sub>DIGITAL DESIGN</sub><br>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&amp;logo=figma&amp;logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&amp;logo=adobeillustrator&amp;logoColor=white" alt="Adobe Illustrator">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop">
 </p>
